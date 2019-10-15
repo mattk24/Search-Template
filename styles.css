@@ -1,0 +1,98 @@
+h1 {
+  color: red;
+  font-size: 6rem;
+  font-family: sans-serif;
+  font-style: normal;
+  position: relative;
+  left: 37%;
+  top: 45%;
+  text-align: justify;
+}
+
+.upper-right-nav {
+  padding-bottom: 5px;
+  position: relative;
+  bottom: 25px;
+  left: 70px;
+}
+
+.about {
+  padding-left: 10px;
+}
+
+.gmail {
+  padding-left: 11px;
+  position: relative;
+  left: 22px;
+}
+
+.gmail2 {
+  padding-left: 11px;
+  position: relative;
+  left: 26px;
+  bottom: 8px;
+}
+
+.search-box {
+  position: relative;
+  left: 36%;
+}
+
+.buttons {
+  position: relative;
+  top: 15px;
+  left: 40px;
+}
+
+.search-nav {
+  position: relative;
+  left: 41px;
+}
+
+.random-search-nav {
+  position: relative;
+  left: 110px;
+  bottom: 22px;
+}
+
+.footer {
+  text-align: center;
+  position: absolute;
+  bottom: 3px;
+  right: 5px;
+}
+
+.footer2 {
+  text-align: center;
+  position: absolute;
+  bottom: 40px;
+}
+
+.ad-nav {
+  position: relative;
+  right: 52rem;
+}
+
+.bussiness-nav {
+  position: relative;
+  right: 45rem;
+  bottom: 20px;
+}
+
+.privacy-nav {
+  position: relative;
+  left: 42.5rem;
+  top: 57px;
+}
+
+.terms-nav {
+  position: relative;
+  left: 48.5rem;
+  top: 2.3rem;
+}
+
+.settings-nav {
+  position: relative;
+  left: 54.5rem;
+  top: 17px;
+}
